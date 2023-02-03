@@ -1,1 +1,1 @@
-# YetGen-Jump
+# YetGen-eğitim öncesi
